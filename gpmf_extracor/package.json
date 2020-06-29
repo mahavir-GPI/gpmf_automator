@@ -1,0 +1,16 @@
+{
+  "name": "gpmf_extracor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "gopro-telemetry": "^0.6.62",
+    "gpmf-extract": "^0.1.14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
