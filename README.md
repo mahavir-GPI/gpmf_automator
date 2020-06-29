@@ -1,7 +1,7 @@
 # gpmf_automator
 # Frame for given GPS Time Stamp
 
-![Project Image](https://blog.4d.com/wp-content/uploads/2016/12/Timestamp.jpg)
+![Project Image](https://github.com/mahavir-GPI/gpmf_automator/blob/master/Workflow_Gopro_telemetry.png)
 
 > Use this utility for fetching out frames for given gps timestamp.
 
